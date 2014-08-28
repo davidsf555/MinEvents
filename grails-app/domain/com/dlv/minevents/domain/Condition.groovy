@@ -1,7 +1,12 @@
 package com.dlv.minevents.domain
 
 class Condition {
-
-    static constraints = {
+	
+	double quantity
+	Date initDate
+	EventType eventType
+	int daysRange
+		
+	static constraints = {
     }
 }

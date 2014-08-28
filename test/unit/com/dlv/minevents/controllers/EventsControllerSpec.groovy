@@ -1,4 +1,4 @@
-package minevents
+package com.dlv.minevents.controllers
 
 import com.dlv.minevents.controllers.EventsController;
 
